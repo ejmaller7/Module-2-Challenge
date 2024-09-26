@@ -88,7 +88,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url('./assets/images/Beach Picture.jpeg'), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url('../images/BeachPicture.jpeg'), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -222,23 +222,33 @@ main {
 /* portfolio project images */
 /* TODO: Add portfolio project images here using background images*/
 .run-buddy {
-  
+  background-image: url('../images/RunBuddy.jpg'), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-size: cover;
+  background-position: center;
 }
 
 .led-wall {
-  
+  background-image: url('../images/LEDWall.jpg'), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-size: cover;
+  background-position: center;
 }
 
 .react-calc {
-  
+  background-image: url('../images/ReactCalc.png'), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-size: cover;
+  background-position: center;
 }
 
 .pastel-puzzles {
-  
+  background-image: url('../images/PastelPuzzles.png'), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-size: cover;
+  background-position: center;
 }
 
 .surf-report {
-  
+  background-image: url('../images/SurfReport.jpg'), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-size: cover;
+  background-position: center;
 }
 
 /* media queries */
